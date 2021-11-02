@@ -1,0 +1,9 @@
+dirs:
+  prepped_data: '{REDACTED}/mex_nmr/prepped_data/'
+  runs: '{REDACTED}/mex_nmr/runs/'
+  vr_data: '{REDACTED}'
+  temp_dir: '{REDACTED}/mex_nmr/'
+  viz_dir: '{REDACTED}/mex_nmr/viz/'
+repos:
+  lbd_core: '{REDACTED}'
+  thesis_prep: '{REDACTED}/thesis_nmr_joint_model/'
